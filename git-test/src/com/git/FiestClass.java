@@ -10,5 +10,6 @@ public class FiestClass {
     public void test(){
 
         System.out.println("gitgit");
+        System.out.println("Fuck you");
     }
 }
