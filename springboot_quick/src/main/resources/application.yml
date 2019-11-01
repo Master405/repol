@@ -1,0 +1,29 @@
+
+name: zhangsan
+#配置数据，集合
+city:
+  - beijing
+  - shanghai
+  - shennghes
+  - tianjing
+#city: [bj,sh,yyy]
+
+people:
+  name: zhangsan
+  age: 67
+  addr: shangahia
+
+person:
+  - name: tom
+    age: 18
+    addr: beijing
+  - name: luck
+    age: 77
+    addr: tinjaing
+
+student: [{name: hah,age: 78},{name: sh,age: 55}]
+
+#map
+map:
+  key1: value1
+  key2: v2
